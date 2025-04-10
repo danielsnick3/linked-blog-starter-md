@@ -1,0 +1,1 @@
+Insert Name Here: his name is literally insert name here or there is some aberration causing their name to be filtered out, maybe sukuna is their true name

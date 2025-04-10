@@ -1,0 +1,1 @@
+A warm and friendly nurse that treats everyone who doesn’t want a shot like they’re a kid afraid of needles despite the shots being quite deadly along with the rest of her medicine

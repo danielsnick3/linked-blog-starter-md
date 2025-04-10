@@ -1,0 +1,1 @@
+Dow jones: finance bro who is rich beyond belief, he supplies adventurers in exchange for a portion of their potential contribution points. Has a literal blue tooth

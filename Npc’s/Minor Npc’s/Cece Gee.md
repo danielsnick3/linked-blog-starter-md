@@ -1,0 +1,1 @@
+Cece Gee: a collector of card games ccg=collectible card game or collectible curse game trying to collect a piece of each cursed spirit, wears fishnets and shows off her collection any chance she gets

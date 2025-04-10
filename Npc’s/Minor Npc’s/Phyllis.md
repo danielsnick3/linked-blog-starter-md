@@ -1,0 +1,1 @@
+Phosphophyllite: keeps themself hidden due to their shiny nature making them a prime target for rich collectors. Brothers and sisters have been dismantled and effectively put into eternal torment

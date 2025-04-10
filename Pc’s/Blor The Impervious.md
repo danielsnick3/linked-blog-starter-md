@@ -1,0 +1,1 @@
+The cursed spirit of wandering that has a horrible sense of direction and forgets most of his past. If he finds out he is a cursed spirit he dies????? 

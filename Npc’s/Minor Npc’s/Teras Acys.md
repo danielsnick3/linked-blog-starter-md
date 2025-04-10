@@ -1,0 +1,1 @@
+Teras Acys: Dragonborn who is trying to figure out why dragons as a whole are on the decline “probably a cursed spirit but I need to know”, has dragon pieces like teeth and scales from dead dragons she has found,

@@ -1,0 +1,1 @@
+Calamity is the first warforged created by xenethal and is disgusted with himself as he is against the natural order of things being a manufactured life, xenethal makes a binding vow with all warforged on creation but is weaker when applied to so many souls 512 arkthu allowing calamity to break them free

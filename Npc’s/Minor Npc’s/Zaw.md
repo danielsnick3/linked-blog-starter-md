@@ -1,0 +1,1 @@
+Zaw: Single soul warforged still under the control of xenethal tries to get info out of arkthu

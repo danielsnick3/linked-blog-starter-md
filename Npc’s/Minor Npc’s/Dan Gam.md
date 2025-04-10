@@ -1,0 +1,1 @@
+Dan Gam: Priest of tymora that is the double or nothing cursed technique user, services are free just wants to spread good fortune 

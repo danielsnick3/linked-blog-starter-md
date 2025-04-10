@@ -1,0 +1,1 @@
+Poop elemental that gained sentience when a water and earth elemental were combined by Hanami, only recently came into existance
