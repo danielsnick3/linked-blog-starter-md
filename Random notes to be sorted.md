@@ -68,3 +68,4 @@ Add rules clarification page on foundry for stuff like grappler  and throwing, m
 Drugs for kids: an organization to heal children and care for them
 
 Attack on titan boss starting as a Mikasa? Fight with them multiplying based on damage taken have rockets and goes female titan at the end. Eats brains to steal memories 
+
