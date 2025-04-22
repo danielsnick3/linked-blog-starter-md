@@ -9,3 +9,8 @@
    Reward: A favor
 5. We brothers need assistance selling our products, we know they’re good we just aren’t that charismatic.
    Reward: Free samples
+
+Mega: 1 or 5
+Kris: 1
+Ian: 2 or 5
+BRG: 1 or 4
