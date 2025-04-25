@@ -19,4 +19,6 @@ Steps to quest
 
 Meet with Caspian
 
+Head to where he was found on the beach and find some chimeric creatures that all love him and latch on
+
 Eventually fight Hanami since caspian originally wanted to take them down
