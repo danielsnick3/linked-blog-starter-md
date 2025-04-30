@@ -24,17 +24,25 @@ Tsubuyuki - Grain of Snow or Snowflake [Direct Translation ~ Zarameyuki]
 
 
 
+Traits
+
+Deadly
+
+Improved combo
+
+Isolation 
 
 
 
 
 
-
-
+Has 15 walk speed and uses specials to move around
 
 
 
 Domain Expansion: Bloodsucking universe
+
+At the beginning of each creature's turn they take 1d3 bleed damage
 
 Snap: If this creature finishes a combo with a special move, all creatures are violently snapped to another part of the domain expansion.
 
@@ -57,7 +65,7 @@ Normal Moves
 
 Special Moves
 
-Scentless: As a free action, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. During the slide this creature may use any action.
+Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. During the slide this creature may use any action.
 
 Rough Snow: 
 
