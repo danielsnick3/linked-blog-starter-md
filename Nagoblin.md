@@ -44,15 +44,15 @@ Domain Expansion: Bloodsucking universe
 
 At the beginning of each creature's turn they take 1d3 bleed damage
 
-Snap: If this creature finishes a combo with a special move, all creatures are violently snapped to another part of the domain expansion.
+Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 con saving throw or be violently snapped to another part of the domain expansion with this creature following along. Each unsnapped creature will follow at the end of their next turn.
 
-Blood Gauge: Upon reaching blood thresholds of 25/75/100, this creature's normal abilities gain additional benefits.
+Blood Gauge: Upon reaching blood thresholds of 25/75/100, this creature's normal abilities gain additional benefits. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
 
 Blood Rage: As a triggered action, when this creature reaches 100 blood they enter a blood rage knocking back all creatures within 10 feet 15 feet unless they succeed on a dexterity saving throw. 
 Blood rage lasts 3 rounds and applies the following effects to this creature
 1. Can't use special moves
 2. Can't gain blood
-3. Loses 10% hp at the beginning of each round
+3. Loses 10% of maximum hp at the beginning of each round
 Blood rage ends when the blood gauge reaches 0.
 
 Stem the Bleeding: If any special move is interrupted, this creature instantly gains 50 Blood
