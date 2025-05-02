@@ -38,7 +38,7 @@ Isolation
 
 Has 15 walk speed and uses specials to move around
 
-
+Environmental Hazard Ice Field: For every 10 feet a creature moves they slide 5 feet (this is considered forced movement and will not trigger attacks of opportunity).
 
 Domain Expansion: Bloodsucking universe
 
@@ -48,6 +48,8 @@ Snap: If this creature finishes a combo with a special move, the target(s) of th
 
 Blood Gauge: Upon reaching blood thresholds of 25/75/100, this creature's normal abilities gain additional benefits. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
 
+Siphon: If this creature takes 15 or more damage from a single instance, they also gain that much blood.
+
 Blood Rage: As a triggered action, when this creature reaches 100 blood they enter a blood rage knocking back all creatures within 10 feet 15 feet unless they succeed on a dexterity saving throw. 
 Blood rage lasts 3 rounds and applies the following effects to this creature
 1. Can't use special moves
@@ -55,7 +57,7 @@ Blood rage lasts 3 rounds and applies the following effects to this creature
 3. Loses 10% of maximum hp at the beginning of each round
 Blood rage ends when the blood gauge reaches 0.
 
-Stem the Bleeding: If any special move is interrupted, this creature instantly gains 50 Blood
+Stem the Bleeding: If this creature would fail a saving throw, they may gain 25 blood and succeed instead. Limit of 3 times.
 
 Heat Gauge: For each point of damage dealt, this creature gains 1 heat. This creature may consume 50/100 heat to perform incredible feats.
 
