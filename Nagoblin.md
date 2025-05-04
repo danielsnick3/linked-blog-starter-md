@@ -38,7 +38,7 @@ Isolation
 
 Has 15 walk speed and uses specials to move around
 
-Environmental Hazard Ice Field: For every 10 feet a creature moves they slide 5 feet (this is considered forced movement and will not trigger attacks of opportunity).
+Environmental Hazard Ice Field: For every 10 feet a creature moves they slide 5 feet (this is considered forced movement and will not trigger attacks of opportunity). If a creature spends double movement they may choose to not slide.
 
 Domain Expansion: Bloodsucking universe
 
@@ -63,7 +63,11 @@ Stem the Bleeding: If this creature would fail a saving throw, they may gain 25 
 
 Heat Gauge: For each point of damage dealt, this creature gains 1 heat. This creature may consume 50/100 heat to perform incredible feats.
 
+Strike/Throw: as a bonus action this creature may attempt to strike/throw 1 enemy. The enemy must choose strike or throw, if they are correct the attempt fails otherwise a strike (attack) or throw (attempt to prone with a dc 16 strength saving throw) is attempted.
+
 Normal Moves
+
+Palm-Chop: If the chop hits the attacked must make a dc 18 strength saving throw or be proned 
 
 5H: This ability gains 5 feet of reach for each blood threshold crossed.
 
