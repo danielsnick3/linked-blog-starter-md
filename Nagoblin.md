@@ -44,6 +44,8 @@ Domain Expansion: Bloodsucking universe
 
 At the beginning of each creature's turn they take 1d3 bleed damage
 
+Iron Incarnation: This creature has a 15 feet walk speed and can't dash.
+
 Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 con saving throw or be violently snapped to another part of the domain expansion with this creature following along. Each unsnapped creature will follow at the end of their next turn.
 
 Blood Gauge: Upon reaching blood thresholds of 25/75/100, this creature's normal abilities gain additional benefits. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
