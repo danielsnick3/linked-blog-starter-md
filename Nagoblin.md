@@ -42,7 +42,7 @@ Environmental Hazard Ice Field: For every 10 feet a creature moves they slide 5 
 
 Domain Expansion: Bloodsucking universe
 
-At the beginning of each creature's turn they take 1d3 bleed damage
+At the beginning of each creature's turn they take 1 bleed damage
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't dash.
 
