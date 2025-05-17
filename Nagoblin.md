@@ -42,11 +42,11 @@ Environmental Hazard Ice Field: For every 10 feet a creature moves they slide 5 
 
 Domain Expansion: Bloodsucking universe
 
-At the beginning of each creature's turn they take 1 bleed damage
+At the beginning of each creature's turn they take 1/2/3/4 bleed damage
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't dash.
 
-Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 con saving throw or be violently snapped to another part of the domain expansion with this creature following along. Each unsnapped creature will follow at the end of their next turn.
+Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 con saving throw or be violently snapped through a mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
 
 Blood Gauge: Upon reaching blood thresholds of 25/75/100, this creature's normal abilities gain additional benefits. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
 
@@ -78,3 +78,5 @@ Scentless: As a free action on their turn, this creature may gain 15 Blood to in
 Rough Snow: 
 
 Snow Cap: As an action this creature performs a lunging attack spinning their sword around themselves 
+
+Crescent catastrophe: While in blood rage and as an action, this creature consumes 100 heat and focuses for 1 round. Then slashes in a 180 degree arc, creatures caught in the arc take 8d10 slashing damage or half as much on a successful dc 18 dexterity saving throw.
