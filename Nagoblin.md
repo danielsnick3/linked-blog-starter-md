@@ -93,6 +93,6 @@ Snow Cap: As an action this creature performs a lunging attack spinning their sw
 
 Dripping Snow: As an action, this creature may gain 20 blood to perform a 2-step assault.
 1. This creature attempts to knock a creature into the air with a dc 16 intelligence saving throw dealing 2d8 bleed damage.
-2. This creature may slam the knocked creature into the ground dealing an additional 1d10 bleed damage or gain an additional 10 blood to perform a normal move.
+2. This creature may slam the knocked creature into the ground dealing an additional 1d10 bleed damage or gain an additional 10 blood to perform a normal move. The knocked creature guesses knock/cancel if they guess correctly they land on their feet unharmed 
 
 Crescent catastrophe: While in blood rage and as an action, this creature consumes 100 heat and focuses for 1 round. Then slashes in a 180 degree arc, creatures caught in the arc take 8d10 slashing damage or half as much on a successful dc 18 dexterity saving throw.
