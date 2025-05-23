@@ -44,7 +44,7 @@ Environmental Hazard Ice Field: Movement on the ice field carries momentum, for 
 
 Domain Expansion: Bloodsucking universe
 
-At the beginning of each creature's turn they take 1d1/2/3/4 bleed damage
+Each instance of damage additionally delas 1d1/2/3/4 bleed damage
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't take the dash action.
 
@@ -59,7 +59,8 @@ Blood rage lasts 3 rounds and applies the following effects to this creature
 1. The Special Moves initiative is temporarily sealed
 2. This creature can't gain blood, and the blood gauge decreases by 1/3 at the beginning of each of this creatures turns
 3. This creature loses 10% of its maximum hp at the beginning of each of its turns
-4. This creature is treated as being at 100 blood gauge
+4. This creature is clashable
+5. This creature is treated as being at 100 blood gauge
 Blood rage ends when the blood gauge reaches 0.
 
 Stem the Bleeding: If this creature would fail a saving throw, they may gain 25 blood and succeed instead. Limit of 3 times.
@@ -74,14 +75,14 @@ Palm-Chop: As an action this creature performs a 2-step assault.
 1. This creature performs a palm strike
 2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned.
 
-5H: This ability gains 5 feet of reach for each blood threshold crossed.
+2/5H: This ability gains 5 feet of reach for each blood threshold crossed. If this ability hits an airborne enemy, deal double damage.
 
-6H: 
+6H:  
 
 Far Slash: As an action this creature performs a 3-step assault
 1. fs
 2. fs2
-3. dc 16 constitution saving throw or be stunned for 1 round
+3. dc 16 constitution saving throw or be dazed for 1 round
 
 Special Moves
 
