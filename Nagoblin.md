@@ -44,13 +44,15 @@ Environmental Hazard Ice Field: Movement on the ice field carries momentum, for 
 
 Domain Expansion: Bloodsucking universe
 
-Each instance of damage additionally delas 1d1/2/3/4 bleed damage
+Each instance of damage additionally deals 1d1/2/3/4 bleed damage
+
+Bloodsucking Universe Action: As an action, if an enemy is afflicted by a negative status effect, this creature may consume the bleed on that enemy to lose that much blood at the beginning of each of their Special moves initiative for 3 rounds. 
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't take the dash action.
 
-Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way frosted mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
+Snap: If this creature finishes an assault within 15 feet of the edge of the map, the target(s) of the assault must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way frosted mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
 
-Blood Gauge: While at or above blood thresholds of 25/75/100, this creature's normal abilities gain 5/10/15 feet reach. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
+Blood Gauge: While at or above blood thresholds of 0/25/75/100, this creature's normal abilities gain 0/5/10/15 feet reach.
 
 Siphon: If this creature takes 15 or more damage in a single instance sans bleeding, they also gain that much blood.
 
@@ -77,20 +79,20 @@ Palm-Chop: As an action this creature performs a 2-step assault.
 
 Heavy Slash: This ability gains 5 feet of reach for each blood threshold crossed. If this ability hits an airborne enemy it deals double damage.
 
-Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a line in front of them. Enemies caught in the slash take 5d8 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round  
+Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a line in front of them. Enemies caught in the slash take 5d8 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 10 blood.  
 
 Far Slash: As an action this creature performs a 3-step assault
 1. This creature performs a thrust dealing 1d8 piercing damage
 2. This creature performs a rising diagonal slash dealing 2d8 slashing damage
-3. This creature performs a falling diagonal slash dealing 3d8 slashing damage. An affected creature must succeed on a dc 16 constitution saving throw or be dazed for 2 rounds. This daze may be cleansed if Nagoblin take a total of 50 damage from enemies or fails a saving throw.
+3. This creature performs a falling diagonal slash dealing 3d8 slashing damage. An affected creature must succeed on a dc 16 constitution saving throw or be dazed for 2 rounds. This daze may be cleansed if Nagoblin takes a total of 50 damage from enemies or fails a saving throw.
 
 Special Moves
 
-Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. During the slide this creature may use any action.
+Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. During the slide, if an action has already been used, this creature may perform an additional action.
 
-Rough Snow: As an action, this creature may gain 10 blood to create 1/2/3 blood clones and dash with them in an arc in front of themself. These clones are indistinguishable from the original creature and have 1 hp. 
+Rough Snow: As an action, this creature may gain 10 blood to create 1/2/3/4 blood clones and dash with them in an arc in front of themself. These clones are indistinguishable from the original creature and have 1 hp. 
 
-Snow Cap: As an action this creature performs a lunging attack spinning their sword around themselves  and advancing 5/10/15 feet dealing 1d8 bleed damage to those around them or none on a successful dc 16 strength saving throw
+Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 16 strength saving throw
 
 Dripping Snow: As an action, this creature may gain 20 blood to perform a 2-step assault.
 1. This creature attempts to knock a creature into the air with a dc 16 intelligence saving throw dealing 2d8 bleed damage.
