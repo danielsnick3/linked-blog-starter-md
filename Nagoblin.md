@@ -48,11 +48,11 @@ Each instance of damage additionally delas 1d1/2/3/4 bleed damage
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't take the dash action.
 
-Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
+Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way frosted mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
 
 Blood Gauge: While at or above blood thresholds of 25/75/100, this creature's normal abilities gain 5/10/15 feet reach. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
 
-Siphon: If this creature takes 15 or more damage from a single instance, they also gain that much blood.
+Siphon: If this creature takes 15 or more damage in a single instance sans bleeding, they also gain that much blood.
 
 Blood Rage: As a triggered action, when this creature reaches 100 blood they enter a blood rage knocking back all creatures within 10 feet 15 feet unless they succeed on a dc 10 dexterity saving throw. 
 Blood rage lasts 3 rounds and applies the following effects to this creature
