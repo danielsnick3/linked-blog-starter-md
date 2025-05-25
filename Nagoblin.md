@@ -50,7 +50,7 @@ Iron Incarnation: This creature has a 15 feet walk speed and can't take the dash
 
 Snap: If this creature finishes a combo with a special move, the target(s) of the special move must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
 
-Blood Gauge: While at or above blood thresholds of 25/75/100, this creature's abilities gain additional benefits. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
+Blood Gauge: While at or above blood thresholds of 25/75/100, this creature's normal abilities gain 5/10/15 feet reach. Additionally, this creature takes 1/2/3d3 bleed damage for each instance of damage taken.
 
 Siphon: If this creature takes 15 or more damage from a single instance, they also gain that much blood.
 
@@ -75,14 +75,14 @@ Palm-Chop: As an action this creature performs a 2-step assault.
 1. This creature performs a palm strike
 2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned.
 
-2/5H: This ability gains 5 feet of reach for each blood threshold crossed. If this ability hits an airborne enemy, deal double damage.
+Heavy Slash: This ability gains 5 feet of reach for each blood threshold crossed. If this ability hits an airborne enemy it deals double damage.
 
-6H:  
+Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a line in front of them. Enemies caught in the slash take 5d8 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round  
 
 Far Slash: As an action this creature performs a 3-step assault
-1. fs
-2. fs2
-3. dc 16 constitution saving throw or be dazed for 1 round
+1. This creature performs a thrust dealing 1d8 piercing damage
+2. This creature performs a rising diagonal slash dealing 2d8 slashing damage
+3. This creature performs a falling diagonal slash dealing 3d8 slashing damage. An affected creature must succeed on a dc 16 constitution saving throw or be dazed for 2 rounds. This daze may be cleansed if Nagoblin take a total of 50 damage from enemies or fails a saving throw.
 
 Special Moves
 
