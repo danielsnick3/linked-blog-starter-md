@@ -74,12 +74,12 @@ Strike/Throw: as a bonus action this creature may attempt to strike/throw 1 enem
 Normal Moves
 
 Palm-Chop: As an action this creature performs a 2-step assault.
-1. This creature performs a palm strike
-2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned.
+1. This creature performs a palm strike. On a hit losing 10 blood.
+2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned. On a hit losing 5 blood.
 
-Heavy Slash: This ability gains 5 feet of reach for each blood threshold crossed. If this ability hits an airborne enemy it deals double damage.
+Heavy Slash: If this ability hits an airborne enemy it deals double damage. On a successful hit this creature loses 20 blood
 
-Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a line in front of them. Enemies caught in the slash take 5d8 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 10 blood.  
+Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a straight line in front of them. Enemies caught in the slash take 1 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 15 blood.  
 
 Far Slash: As an action this creature performs a 3-step assault
 1. This creature performs a thrust dealing 1d8 piercing damage
