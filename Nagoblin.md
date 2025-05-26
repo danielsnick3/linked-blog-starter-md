@@ -92,7 +92,7 @@ Scentless: As a free action on their turn, this creature may gain 15 Blood to in
 
 Rough Snow: As an action, this creature may gain 10 blood to create 1/2/3/4 blood clones and dash with them in an arc in front of themself. These clones are indistinguishable from the original creature and have 1 hp. 
 
-Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 19 strength saving throw.
+Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 19 dexterity saving throw.
 
 Dripping Snow: As an action, this creature may gain 20 blood to perform a 2-step assault.
 1. This creature attempts to knock a creature into the air with a dc 15 intelligence saving throw dealing 2d8 bleed damage.
