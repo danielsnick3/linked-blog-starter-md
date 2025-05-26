@@ -88,14 +88,16 @@ Far Slash: As an action this creature performs a 3-step assault
 
 Special Moves
 
+Drifting Snow: If this creature does not gain blood in the special moves initiative they instead lose 15 blood.
+
 Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5/10/15/20 feet. If an action has already been used in this initiative, this creature may perform an additional action immediately after Scentless.
 
 Rough Snow: As an action, this creature may gain 10 blood to create 1/2/3/4 blood clones and dash with them in an arc in front of themself. These clones are indistinguishable from the original creature and have 1 hp. 
 
-Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 19 dexterity saving throw.
+Snow Cap: As an action, this creature may gain 20 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 19 dexterity saving throw.
 
-Dripping Snow: As an action, this creature may gain 20 blood to perform a 2-step assault.
-1. This creature attempts to knock a creature into the air with a dc 15 intelligence saving throw dealing 2d8 bleed damage.
+Dripping Snow: As an action, this creature may gain 15 blood to perform a 2-step assault.
+1. This creature attempts to knock a creature into the air with a dc 15 intelligence saving throw dealing 2d8 bleed damage. If the target is prone they automatically fail the saving throw. 
 2. The knocked creature guesses knock/Scentless if they guess correctly they land on their feet unharmed. This creature may slam the knocked creature into the ground dealing an additional 1d10 bleed damage or use Scentless. 
 
 Crescent catastrophe: While in blood rage and as an action, this creature consumes 100 heat and focuses for 1 round. Then slashes in a 180 degree arc, creatures caught in the arc take 8d10 slashing damage or half as much on a successful dc 17 dexterity saving throw.
