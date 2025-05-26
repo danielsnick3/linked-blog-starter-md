@@ -54,7 +54,7 @@ Snap: If this creature finishes an assault within 15 feet of the edge of the map
 
 Blood Gauge: While at or above blood thresholds of 0/25/75/100, this creature's normal moves gain 0/5/10/15 feet reach. This creatures special moves also gain additional benefits.
 
-Siphon: If this creature takes 20 or more damage in a single instance sans bleeding, they also gain that much blood.
+Siphon: If this creature takes 17 or more damage in a single instance sans bleeding, they also gain that much blood.
 
 Blood Rage: As a triggered action, when this creature reaches 100 blood they enter a blood rage knocking back all creatures within 10 feet 15 feet unless they succeed on a dc 10 dexterity saving throw. 
 Blood rage lasts 3 rounds and applies the following effects to this creature
