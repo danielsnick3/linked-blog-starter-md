@@ -77,7 +77,7 @@ Palm-Chop: As an action this creature performs a 2-step assault.
 1. This creature performs a palm strike. On a hit losing 10 blood.
 2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned. On a hit losing 10 blood.
 
-Heavy Slash: If this ability hits an airborne enemy it deals double damage. On a hit this creature loses 25 blood.
+Heavy Slash: As an action, this creature readies their katana in their sheath. Swinging at a singular enemy dealing 2d12+7 slashing damage. If this ability hits an airborne enemy it deals double damage. On a hit this creature loses 25 blood.
 
 Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a straight line in front of them. Enemies caught in the slash take 1 slashing damage and must succeed on a dc 19 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 15 blood.  
 
