@@ -79,7 +79,7 @@ Palm-Chop: As an action this creature performs a 2-step assault.
 
 Heavy Slash: If this ability hits an airborne enemy it deals double damage. On a successful hit this creature loses 20 blood
 
-Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a straight line in front of them. Enemies caught in the slash take 1 slashing damage and must succeed on a dc 18 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 15 blood.  
+Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a straight line in front of them. Enemies caught in the slash take 1 slashing damage and must succeed on a dc 19 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 15 blood.  
 
 Far Slash: As an action this creature performs a 3-step assault
 1. This creature performs a thrust dealing 1d8 piercing damage
