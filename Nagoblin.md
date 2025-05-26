@@ -50,7 +50,7 @@ Bloodsucking Universe Action: As an action, if an enemy is afflicted by a negati
 
 Iron Incarnation: This creature has a 15 feet walk speed and can't take the dash action.
 
-Snap: If this creature finishes an assault within 15 feet of the edge of the map, the target(s) of the assault must succeed on an dc 17 constitution saving throw or be violently snapped through a one-way frosted mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
+Snap: If this creature finishes an assault within 15 feet of the edge of the map, the target(s) of the assault must succeed on an dc 16 constitution saving throw or be violently snapped through a one-way frosted mirror to another part of the domain expansion with this creature following along. Each unsnapped creature may follow by entering the mirror.
 
 Blood Gauge: While at or above blood thresholds of 0/25/75/100, this creature's normal abilities gain 0/5/10/15 feet reach.
 
@@ -69,33 +69,33 @@ Stem the Bleeding: If this creature would fail a saving throw, they may gain 25 
 
 Heat Gauge: For each point of damage dealt by this creature, this creature gains 1 heat. This creature may consume 50/100 heat to perform incredible feats.
 
-Strike/Throw: as a bonus action this creature may attempt to strike/throw 1 enemy. The enemy must choose strike or throw, if they are correct the attempt fails otherwise a strike (attack) or throw (attempt to prone with a dc 16 strength saving throw) is attempted.
+Strike/Throw: as a bonus action this creature may attempt to strike/throw 1 enemy. The enemy must choose strike or throw, if they are correct the attempt fails otherwise a strike (attack) or throw (attempt to prone with a dc 19 strength saving throw) is attempted.
 
 Normal Moves
 
 Palm-Chop: As an action this creature performs a 2-step assault.
 1. This creature performs a palm strike. On a hit losing 10 blood.
-2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned. On a hit losing 5 blood.
+2. This creature performs a horizontal chop, an affected target must make a dc 18 strength saving throw or be proned. On a hit losing 10 blood.
 
-Heavy Slash: If this ability hits an airborne enemy it deals double damage. On a successful hit this creature loses 20 blood
+Heavy Slash: If this ability hits an airborne enemy it deals double damage. On a hit this creature loses 25 blood.
 
 Meteor Slash: As an action, this creature raises their sword toward the heavens swinging down in a straight line in front of them. Enemies caught in the slash take 1 slashing damage and must succeed on a dc 19 strength saving throw or be dazed for 1 round. For each enemy hit this creature loses 15 blood.  
 
 Far Slash: As an action this creature performs a 3-step assault
-1. This creature performs a thrust dealing 1d8 piercing damage
-2. This creature performs a rising diagonal slash dealing 2d8 slashing damage
-3. This creature performs a falling diagonal slash dealing 3d8 slashing damage. An affected creature must succeed on a dc 16 constitution saving throw or be dazed for 2 rounds. This daze may be cleansed if Nagoblin takes a total of 50 damage from enemies or fails a saving throw.
+1. This creature performs a thrust dealing 1d8 piercing damage. On a hit losing 5 blood.
+2. This creature performs a rising diagonal slash dealing 2d8 slashing damage. On a hit losing 5 blood.
+3. This creature performs a falling diagonal slash dealing 3d8 slashing damage. An affected creature must succeed on a dc 16 constitution saving throw or be dazed for 3 rounds. This daze may be cleansed if Nagoblin takes a total of 100 damage from enemies or fails a saving throw.
 
 Special Moves
 
-Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. During the slide, if an action has already been used, this creature may perform an additional action.
+Scentless: As a free action on their turn, this creature may gain 15 Blood to instantly teleport 5 feet along the ground and slide an additional 10 feet. If an action has already been used in this initiative, this creature may perform an additional action during the slide.
 
 Rough Snow: As an action, this creature may gain 10 blood to create 1/2/3/4 blood clones and dash with them in an arc in front of themself. These clones are indistinguishable from the original creature and have 1 hp. 
 
-Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 16 strength saving throw
+Snow Cap: As an action, this creature may gain 25 blood to perform a lunging attack spinning their sword around themselves and advancing 5/10/15/20 feet dealing 1d8 bleed damage to those around them or none on a successful dc 19 strength saving throw.
 
 Dripping Snow: As an action, this creature may gain 20 blood to perform a 2-step assault.
-1. This creature attempts to knock a creature into the air with a dc 16 intelligence saving throw dealing 2d8 bleed damage.
-2. This creature may slam the knocked creature into the ground dealing an additional 1d10 bleed damage or gain an additional 10 blood to perform a normal move. The knocked creature guesses knock/cancel if they guess correctly they land on their feet unharmed 
+1. This creature attempts to knock a creature into the air with a dc 15 intelligence saving throw dealing 2d8 bleed damage.
+2. The knocked creature guesses knock/cancel if they guess correctly they land on their feet unharmed. This creature may slam the knocked creature into the ground dealing an additional 1d10 bleed damage or use Scentless. 
 
-Crescent catastrophe: While in blood rage and as an action, this creature consumes 100 heat and focuses for 1 round. Then slashes in a 180 degree arc, creatures caught in the arc take 8d10 slashing damage or half as much on a successful dc 18 dexterity saving throw.
+Crescent catastrophe: While in blood rage and as an action, this creature consumes 100 heat and focuses for 1 round. Then slashes in a 180 degree arc, creatures caught in the arc take 8d10 slashing damage or half as much on a successful dc 17 dexterity saving throw.
