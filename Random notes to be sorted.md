@@ -72,3 +72,5 @@ Attack on titan boss starting as a Mikasa? Fight with them multiplying based on 
 A group of clerics called the A-Men
 
 Someone who does terrible things to go to hell when they die to make hell a better place
+
+K’chiga a sentient car from xenethals experiments referencing the movie cars
