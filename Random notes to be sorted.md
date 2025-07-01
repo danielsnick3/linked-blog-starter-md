@@ -76,3 +76,6 @@ Someone who does terrible things to go to hell when they die to make hell a bett
 K’chiga a sentient car from xenethals experiments referencing the movie cars
 
 Blor halo black flash ends with slashes
+
+Baby who has a constant domain expansion without a barrier with a guaranteed hit DIVINE BABY
+
