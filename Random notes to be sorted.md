@@ -83,3 +83,5 @@ Gojo's Town
 Gojo's Prison
 
 Group of cheese merchants called the Conquesadors 
+
+Killfeed like in Minecraft for 1person on the continent 
