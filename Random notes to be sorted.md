@@ -84,4 +84,6 @@ Gojo's Prison
 
 Group of cheese merchants called the Conquesadors 
 
-Killfeed like in Minecraft for 1person on the continent 
+Killfeed like in Minecraft for 1person on the continent to send messages to everyone cursed spirit of communication. The killfeed shows who killed who and how so they make a binding vow to change their own name or their targets name to form sentences
+
+Oppenheimer wants to destroy barbileand until seeing it firsthand and immediately marrying Barbie
