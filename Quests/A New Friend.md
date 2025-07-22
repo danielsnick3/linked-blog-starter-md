@@ -13,7 +13,15 @@ Doesn’t initially remember where he woke up but after fighting some two soul m
 
 Reward: cool magic belt and a new friend
 
+Blor's name keeps changing between the ninja turtles
 
+Breedana
+
+Turtle power to get Blor's attention
+
+Yu Mi Name: Bo Rai Cho (say it fucked)
+
+Ark'Thu Name: Iron Man
 
 Steps to quest
 
