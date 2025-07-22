@@ -23,6 +23,10 @@ Yu Mi Name: Bo Rai Cho (say it fucked)
 
 Ark'Thu Name: Iron Man
 
+2 weeks since Caspian was fused
+
+
+
 Steps to quest
 
 Meet with Caspian
