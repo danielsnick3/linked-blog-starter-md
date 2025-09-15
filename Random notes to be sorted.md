@@ -46,9 +46,7 @@ Undertaker
 
 Wrestler Kane the mayor of noxville county Tennessee 
 
-Cursed technique that allows you to impart the properties of glass onto something so a barrel can break open like a glass bottle
-
-Maelstrom boat fight like pirates at worlds end
+Cursed technique that allows you to impart the properties of glass onto something so a barrel can break open like a glass 
 
 
 Rhino warframe Sir Dicks A Lot
@@ -61,9 +59,6 @@ Tony b’cawk the skateboarding chicken
 
 Domain expansion: the righteous fire https://reddit.com/r/pathofexile/comments/1jbm6hc/_/mhvhdii/?context=1
 
-Grappler feat gives advantage on attacks against grappled creatures, not base
-
-Add rules clarification page on foundry for stuff like grappler  and throwing, magic missile concentration
 
 Drugs for kids: an organization to heal children and care for them
 
@@ -79,11 +74,12 @@ Blor halo black flash ends with slashes
 
 Baby who has a constant domain expansion without a barrier with a guaranteed hit DIVINE BABY
 
-Gojo's Town
-Gojo's Prison
 
 Group of cheese merchants called the Conquesadors 
 
 Killfeed like in Minecraft for 1person on the continent to send messages to everyone cursed spirit of communication. The killfeed shows who killed who and how so they make a binding vow to change their own name or their targets name to form sentences
 
 Oppenheimer wants to destroy barbileand until seeing it firsthand and immediately marrying Barbie
+
+Maxxi the Tabaxi taxi
+
