@@ -1,0 +1,1 @@
+Giganto Drop: As a bonus action this creature attempts to throw a large or smaller creature 
