@@ -1,3 +1,3 @@
 Giganto Drop: As a bonus action, this creature attempts to throw a large or smaller creature. If the creature is sleeping the throwing distance is doubled. 
 
-Painful Sprint: As an action, this creature moves up to their speed slipping past creature collision
+Painful Sprint: As an action, this creature moves up to their speed slipping past other creatures ignoring their size. Any unconscious creature this creature passes within 5 ft of during this move is thrown by Giganto Drop as a triggered action.  
