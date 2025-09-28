@@ -1,0 +1,1 @@
+Drowsy Whiplash: As a triggered action when this creature dies, the creature who caused this creature's death is blasted with a 
