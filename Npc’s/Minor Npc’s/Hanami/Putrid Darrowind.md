@@ -1,3 +1,3 @@
 Giganto Loft: As a bonus action, this creature attempts to throw a large or smaller creature. If the creature is sleeping the throwing distance is doubled. 
 
-Painful Sprint: As an action, this creature moves up to their speed attempting to barrel past other creatures ignoring their size. Any creature this creature passes within 5 ft of during this move is thrown by Giganto Loft as a triggered action.  
+Painful Sprint: As an action, this creature moves up to their speed attempting to slip past other creatures ignoring their size. Any unconcious creature this creature passes within 5 ft of during this move is thrown by Giganto Loft as a triggered action.  
