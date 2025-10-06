@@ -16,6 +16,11 @@ Abilities
 
 Neutral
 
+Putrescence: A putrefied creature has all buffs and debuffs applied to them last an additional round per stack of putrescence. Putrescence is removed by completing any rest, a dc 15 medicine check, a buff or debuffs duration is modified.
+
+Inverse Affliction: if this creature has putrescence they can not use their legendary resistance.
+
+
 Grasping Vines: A trail of vines continuously follows each enemy in this combat, if an enemy touches any vines they must succeed on a dc 17 strength saving throw or have the grasping vines attached to them. While the vines are attached the creature loses half of their movement and gains a stack of Putrescence when they fail a saving throw. At the beginning of an attached creatures turn the saving throw is rolled again on a success breaking free. Moving 30ft. in one round or using an action may remove the vines.
 
 
@@ -25,7 +30,7 @@ Putrescence Initiative
 Any damage dealt from the Putrescence initiative can apply a stack of Putrescence
 
 
-Spreading Plague: As an action this creature targets a creature that has putrescence and another creature within 15 ft. Of that creature. Both creatures must succeed on a dc 15 wisdom saving throw or have their Putrescence maximized between them.
+Spreading Plague: As an action this creature targets a creature that has putrescence, in 1 round that creature will explode spreading their putrescence to each creature within 30 ft.
 
 
 Mirror Army: As an action, this creature shoots 5 arrows into the air landing around them. These arrows spawn small reflections of this creature that attack at the beginning of each of this creature’s initiatives. These attacks will always target the furthest creature.
