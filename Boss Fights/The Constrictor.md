@@ -21,13 +21,13 @@ Putrescence: A putrefied creature has all buffs and debuffs applied to them last
 Inverse Affliction: if this creature has putrescence they can not use their legendary resistance.
 
 
-Grasping Vines: A trail of vines continuously follows each enemy in this combat, if an enemy touches any vines they must succeed on a dc 17 strength saving throw or have the grasping vines attached to them. While the vines are attached the creature loses half of their movement and gains a stack of Putrescence when they fail a saving throw. At the beginning of an attached creatures turn the saving throw is rolled again on a success breaking free. Moving 30ft. in one round or using an action may remove the vines.
+Grasping Vines: A trail of vines continuously follows each enemy in this combat, if an enemy touches any vines they must succeed on a dc 17 strength saving throw or have the grasping vines attached to them. While the vines are attached, the creature loses half of their movement and gains a stack of Putrescence when they fail a saving throw. At the beginning of an attached creatures turn the saving throw is rolled again on a success breaking free. Moving 30ft. in one round or using an action may remove the vines.
 
 
 
 Putrescence Initiative
 
-Any damage dealt from the Putrescence initiative can apply a stack of Putrescence
+Putrid Spikes: Any damage dealt from the Putrescence initiative can apply a stack of Putrescence
 
 
 Spreading Plague: As an action, this creature targets a creature that has putrescence, in 1 round that creature will explode spreading their putrescence to each creature within 30 ft and dealing xd8 damage where x is the number of putrescence stacks.
@@ -35,6 +35,7 @@ Spreading Plague: As an action, this creature targets a creature that has putres
 
 Mirror Army: As an action, this creature shoots 3 arrows into the air landing around them. These arrows spawn small reflections of this creature that attack at the beginning of each of this creature’s initiatives. These attacks will always target the furthest enemy from putrefy.
 
+Freezy Frogs: As an action, this creature summons an ice frog for each enemy that will chase them with 20 ft of movement. If a frog is touched it will explode dealing 8d6 damage. Freezy Frogs may only be used when no Freezy Frogs are out.
 
 Thorn Pod: As an action, a pod with 10 hp is placed on the ground next to this creature. In 1 round this pod will explode in a nova around it. Each creature hit must succeed on a dc 17 dexterity saving throw or take 3d8 piercing damage for each thorn that hits. 
 
@@ -43,11 +44,13 @@ Constriction Initiative
 Dashing Defilement: As an action, this creature may lunge 15ft. If this creature collides with another a vine skewer is triggered targeting that creature. If this ability triggers an opportunity attack the attacker must succeed on a dc 14 strength saving throw or vine skewer is triggered on them.
 
 
-Vine Skewer: As a triggered action, this creature attempts to plunge a sharp vine into a creature. The creature must succeed on a dc 17 con saving throw or the vine will burrow through applying dazed for 1 round..
+Vine Skewer: As a triggered action, this creature attempts to plunge a sharp vine into a creature. The creature must succeed on a dc 17 con saving throw or the vine will burrow through dealing 4d8 piercing damage and applying dazed for 1 round.
 
 
 Combo Rush: As an action, this creature may perform a 3-step assault<br>1. This creature performs a diagonal slash.<br>2. This creature performs a piercing attack, causing a dc 20 constitution saving throw or a stack of putrescence is applied.<br>3. This creature jumps backwards 15 ft. firing 3 lines of arrows in front of them. The target of assault 2 may not perform an opportunity attack from assault 3.
 
-Caustic Mortar: As an action, this creature places down a blackened seed pod targeting a 30 ft. area. In 1 round this pod will launch 3 mortars in that area. If this hits a creature with Putrescence, a stack is consumed and a 10 ft. area caustic ground is created beneath that creature.
+Caustic Mortar: As an action, this creature places down a 20 hp blackened seed pod targeting a 30 ft. area. In 1 round this pod will launch 3 mortars in that area. If this hits a creature with Putrescence, a stack is consumed and a 10 ft. area caustic ground is created beneath that creature.
 
 Caustic Ground: For every 5ft of movement on caustic ground a creature takes 1d6 damage.
+
+Sundering Shot: As an action, this creature jumps 30 ft. into the air and shoots a spike into the ground. This spike sunders the ground in a nova, each creature must succeed on a dc 19 dexterity saving throw taking 8d8 piercing damage or half as much on a successful saving throw.
