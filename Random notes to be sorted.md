@@ -83,3 +83,5 @@ Oppenheimer wants to destroy barbileand until seeing it firsthand and immediatel
 
 Maxxi the Tabaxi taxi
 
+Wo Chang: Settles a dispute between to clans who both want the fairest maiden by splitting her in half and giving them each half. Kills both clans when they turn on him.
+
