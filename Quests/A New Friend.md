@@ -40,3 +40,6 @@ Caspian can contain the properties of items in his bubbles like friction.
 Vodka can have things he touches explode, originally used kunai that explode . Wears white due to the training regiment of Nagoblin to avoid self-damage. 
 
 Combined can make exploding bubbles.
+
+
+Caspian tp'd to Arglas
