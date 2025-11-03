@@ -46,3 +46,9 @@ Caspian tp'd to Arglas
 
 They have found Vodka's Kunai
 
+Aftermath of Putrefy's Domain Expansion
+1. Tony B'Cawk, Bloster, and Volibear are captured and converted to Putrefy's minions
+2. Hanami uses their newly returned domain expansion as a reaction to escape Putrefy and cuts off their roots to move shop. Any remaining roots are dimmed and quickly shrivel
+3.  Caspian tp'd to Arglas
+4. 
+
