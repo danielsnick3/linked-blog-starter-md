@@ -14,7 +14,7 @@ Abilities:
 
 Neutral
 
-Root Walk: This creature has a 30ft speed
+Root Walk: This creature has a 30ft walk speed. If they expend 30ft of movement, they may instead move 30 ft riding on roots in a continuous motion. If a creature is in the movement path of the roots, they must make a dc 18 dexterity saving throw. On a failed save each creature takes xd8 and is pushed with the roots, On a success each creature chooses a direction to dodge 10ft
 
 Root Walk:	This creature can only move by using their vines and only by expending all of their movement. If a creature is in the movement path of the vines they must make a dc 18 dexterity saving throw On a failed save each creature takes xd8 and is pushed with the vines, On a success each creature chooses a direction to dodge 10ft
 
@@ -25,7 +25,9 @@ Wood Warrior Initiative:
 Wooden Balls:	As a bonus action, this creature throws a minefield of wooden balls
 If an enemy moves next to a ball they must succeed on a dc 18 dexterity saving throw or take 1d4 damage. Each ball has 1hp and 1 ac
 
-Observable Orbit	: As an action, this creature causes all wooden balls to follow this creature for one round
+Observable Orbit	: As an action, this creature causes all wooden balls to follow this creature.
+
+Wood Spike: As an attack, this creature summons vines that rush toward a creature. 
 
 Forest Forged Initiative:
 
