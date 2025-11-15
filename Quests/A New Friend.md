@@ -51,7 +51,7 @@ Aftermath of Putrefy's Domain Expansion
 2. Hanami uses their newly returned domain expansion as a reaction to escape Putrefy and cuts off their roots to move shop. Any remaining roots are dimmed and quickly shrivel.
 3.  Caspian tp'd to Arglas
 
-Vantablack sphere over the portal where Putrefy’s domain was expanded. The party come out from there and see the vine wall broken. The kuna
+Vantablack sphere over the portal where Putrefy’s domain was expanded. The party come out from there and see the vine wall broken. 
 
 
 

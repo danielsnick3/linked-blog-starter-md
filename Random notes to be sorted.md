@@ -85,3 +85,9 @@ Maxxi the Tabaxi taxi
 
 Wo Chang: Settles a dispute between to clans who both want the fairest maiden by splitting her in half and giving them each half. Kills both clans when they turn on him.
 
+
+3:39:00 Kris says I can’t believe mega didn’t stick around for this the speed back up
+
+4:00:00 quicker getting it off
+
+4:20:00 17 seconds
