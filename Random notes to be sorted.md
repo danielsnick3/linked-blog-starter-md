@@ -24,9 +24,6 @@ Bees
 Pirate majima 
 Bone boy skeleton 
 
-Spa trip halfway in
-
-Jold is meeting everyone at the waterfall before saying hi to megumi 
 
 Sonic bar scene is part of yu mi’s infinite barworks, yu mi fought a blue hedgehog in a bar brawl once, one second you were in a bar brawl the next everything was neutralized
 
@@ -91,3 +88,6 @@ Wo Chang: Settles a dispute between to clans who both want the fairest maiden by
 4:00:00 quicker getting it off
 
 4:20:00 17 seconds
+
+After 2 hours the buzzing of Lean stops so Sarah is able to send off the letter to Gojo.
+Gojo sends Todo, Dante, and the A-Men since he is relaxing at the spa, which takes about an hour to get going. Thu meets this group 3 hours into their journey on the way back.
