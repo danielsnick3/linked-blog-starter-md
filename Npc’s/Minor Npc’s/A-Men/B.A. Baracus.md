@@ -1,0 +1,1 @@
+Short tempered skirmisher that can transfer hp between creatures
