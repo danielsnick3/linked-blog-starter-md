@@ -1,0 +1,1 @@
+Was able to choose an ultimate spell that will always succeed being sleep since he thought it would work on himself since he suffers from insomnia 

@@ -1,4 +1,4 @@
-Nova hires the party to capture someone with a creation cursed technique as they are quite rare. Goal is to enslave them to advance gun tech. Currently captured and being used to make chains by a cult trying to make a perfect sphere.
+Nova hires the party to capture someone with a creation cursed technique as they are quite rare. Goal is to enslave them to advance gun tech. Currently captured and being used to make an endless amount of spheres by a cult trying to make a perfect sphere.
 
 Food has not been too plentiful in the area for a while, but it was enough to keep an equilibrium. Now that famine is around prices have risen sharply. Word gets around and people panic buy and a lot of the food they buy goes bad causing them to buy again and create a death spiral for food. Converting materials to food isn’t too bad, but creating from nothing is difficult.
 

@@ -1,0 +1,1 @@
+By obtaining someone’s shoes and walking a mile in them, they can transform into that creature 

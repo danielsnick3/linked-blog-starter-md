@@ -1,0 +1,1 @@
+Looks just like Sukuna so his face or whole body is just a black square. Token just a black square he is extremely good at hiding cause of this
