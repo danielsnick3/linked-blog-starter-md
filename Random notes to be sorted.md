@@ -91,3 +91,6 @@ Wo Chang: Settles a dispute between to clans who both want the fairest maiden by
 
 After 2 hours the buzzing of Lean stops so Sarah is able to send off the letter to Gojo.
 Gojo sends Todo, Dante, and the A-Men since he is relaxing at the spa, which takes about an hour to get going. Thu meets this group 3 hours into their journey on the way back.
+
+
+Dick wizard makes dick jokes
