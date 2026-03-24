@@ -94,3 +94,6 @@ Gojo sends Todo, Dante, and the A-Men since he is relaxing at the spa, which tak
 
 
 Dick wizard makes dick jokes
+
+
+Russian roulette gunslinger who halves health with each shot
