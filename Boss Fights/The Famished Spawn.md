@@ -10,3 +10,7 @@ Glorious: By choosing to make this fight harder, the party may receive greater l
 Abilities:
 
 Zoned Out: At the beginning of each of Ark’Thus turns they must succeed on a dc 17 wisdom saving throw or be unable to act.
+
+Spawn Tron: This creature has 3 initiatives controlled by Ark'Thu, the curse from the O-Zone, and Famine.
+
+Puddle Trouble: 
