@@ -17,3 +17,5 @@ Posting: seeking help acquiring materials for manufacturing guns
 Somehow relates back to blor??? Domain expansion stuff maybe, how cursed spirits spread fear in indirect ways more guns and more powerful guns means more fear of guns
 
 Reward: x gold and a special gun
+
+When suze gets all of his arms back turn him into the 2007 live action version of Dororo
