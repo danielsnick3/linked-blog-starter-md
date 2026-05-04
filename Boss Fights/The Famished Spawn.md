@@ -19,9 +19,13 @@ Spawn Tron: This creature has 3 initiatives controlled by Ark'Thu, the O-Zone, a
 
 Famine
 
-Puddle Trouble: As a reaction, this creature may rot themself  
+Puddle Trouble: As a reaction, this creature may rot themself 
 
 
 O-Zone
 
-Dismantle: As an attack, this creature attempts to slash through an enemy.
+Dismantle: As an attack, this creature attempts to slash through an enemy dealing immense damage ignoring magical resistance.
+
+Cleave: As an action, this creature touches another and shreds them based on their toughness. 
+
+Spiderweb: As an action, this creature touches a surface and channels cleave through it instead of a creature. The surface must succeed on a fortitude save or be destroyed.
