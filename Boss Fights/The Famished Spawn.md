@@ -19,7 +19,11 @@ Spawn Tron: This creature has 3 initiatives controlled by Ark'Thu, the O-Zone, a
 
 Famine
 
-Puddle Trouble: As a reaction, this creature may rot themself 
+Rot
+Puddle Trouble: As a reaction, this creature may rot themself to avoid a negative effect.
+
+Fester
+Inaccurate Consumption: As an action, this creature attempts to devour an enemy's cursed energy. They must succeed on a dc 16 wisdom saving throw or 
 
 
 O-Zone
