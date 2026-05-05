@@ -19,3 +19,10 @@ Somehow relates back to blor??? Domain expansion stuff maybe, how cursed spirits
 Reward: x gold and a special gun
 
 When suze gets all of his arms back turn him into the 2007 live action version of Dororo
+
+Thu’s patron is now O-Zone instead of calamity due to him using awakened mind on a servant of Famine. Eventually turning into dismantle if he keeps following that route.
+
+Yu mi has continued his corruption by the O-Zone by contacting Excremental and asking for help. His unarmed strikes now deal slashing damage 
+
+
+Suze has been saved and one leg has been acquired, his other limbs include both arms which are in the possession of Louie Gino, and one leg which is hidden 
