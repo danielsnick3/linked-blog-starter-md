@@ -25,4 +25,4 @@ Thu’s patron is now O-Zone instead of calamity due to him using awakened mind 
 Yu mi has continued his corruption by the O-Zone by contacting Excremental and asking for help. His unarmed strikes now deal slashing damage 
 
 
-Suze has been saved and one leg has been acquired, his other limbs include both arms which are in the possession of Louie Gino, and one leg which is hidden 
+Suze has been saved and one leg has been acquired, his other limbs include both arms which are in the possession of Louie Gino, and one leg which is hidden on the other person who was sitting at their table in the inn rumors about that her leg disappeared during a game.
