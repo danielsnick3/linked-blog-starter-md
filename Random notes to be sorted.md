@@ -97,3 +97,6 @@ Dick wizard makes dick jokes
 
 
 Russian roulette gunslinger who halves health with each shot
+
+
+Someone is training to shoot a basketball and after each shot they say “there’s gotta be a way to do this.
