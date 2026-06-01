@@ -16,7 +16,8 @@ Knuckle: supportive fighter who hits and runs trying to disable class features
 
 D.va: boss that can get back their empowered form if not taken down in baby form but less hp each time
 
-Gravity rush style enemy who manipulates the flow of gravity maybe like the guy from zatch bell can make wall the ground or sky pushing everything in that direction or splitting the forces to tear someone apart
+Issac Newton: Gravity rush style enemy who manipulates the flow of gravity maybe like the guy from zatch bell can make wall the ground or sky pushing everything in that direction or splitting the forces to tear someone apart
+Theme Song: https://www.youtube.com/watch?v=VmRPdhlKrEc
 
 Accelerator from railgun
 
