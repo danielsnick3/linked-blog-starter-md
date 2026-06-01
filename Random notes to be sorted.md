@@ -80,7 +80,7 @@ Oppenheimer wants to destroy barbileand until seeing it firsthand and immediatel
 
 Maxxi the Tabaxi taxi
 
-Wo Chang: Settles a dispute between to clans who both want the fairest maiden by splitting her in half and giving them each half. Kills both clans when they turn on him.
+Wo Chang: Settles a dispute between two clans who both want the fairest maiden by splitting her in half and giving them each half. Kills both clans when they turn on him.
 
 
 3:39:00 Kris says I can’t believe mega didn’t stick around for this the speed back up
@@ -96,7 +96,7 @@ Gojo sends Todo, Dante, and the A-Men since he is relaxing at the spa, which tak
 Dick wizard makes dick jokes
 
 
-Russian roulette gunslinger who halves health with each shot
+Russian roulette gunslinger who halves enemy health with each shot
 
 
 Someone is training to shoot a basketball and after each shot they say “there’s gotta be a way to do this.
