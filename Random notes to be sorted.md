@@ -101,3 +101,6 @@ Russian roulette gunslinger who halves enemy health with each shot
 
 
 Someone is training to shoot a basketball and after each shot they say “there’s gotta be a way to do this.
+
+
+Condiment king, pathetic batman villain
