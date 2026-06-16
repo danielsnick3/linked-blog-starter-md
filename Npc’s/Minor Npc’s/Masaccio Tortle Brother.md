@@ -9,3 +9,5 @@ Giovanni
 Titaian
 
 Stick: rat father
+
+Was informed of Arglas to try and fix the 
