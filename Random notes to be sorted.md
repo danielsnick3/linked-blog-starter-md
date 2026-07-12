@@ -106,3 +106,9 @@ Someone is training to shoot a basketball and after each shot they say â€œthereâ
 Condiment king, pathetic batman villain
 
 annoying orange style mouth imposed on top of a mouth
+
+characters strength is based on the tone of their skin, burning themselves to turn darker
+
+village leader who cares about his constituents so much because he gets 1 gold per day based on the number of constituents
+
+bulletstorm reference, domain expansion where the more creative the kill the more points you get
