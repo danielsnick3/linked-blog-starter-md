@@ -112,3 +112,6 @@ characters strength is based on the tone of their skin, burning themselves to tu
 village leader who cares about his constituents so much because he gets 1 gold per day based on the number of constituents
 
 bulletstorm reference, domain expansion where the more creative the kill the more points you get
+
+CSSG Cursed spirit support group, also the cactus and succulent plants specialist group which is on the other side of the ocean cutoff from the rest of the world. Founding members of the cursed spirit support group are Bandagon, Tony B'Cawk, and Blor the Impervious. 
+
