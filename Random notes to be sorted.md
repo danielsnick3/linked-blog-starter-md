@@ -115,3 +115,5 @@ bulletstorm reference, domain expansion where the more creative the kill the mor
 
 CSSG Cursed spirit support group, also the cactus and succulent plants specialist group which is on the other side of the ocean cutoff from the rest of the world. Founding members of the cursed spirit support group are Bandagon, Tony B'Cawk, and Blor the Impervious. 
 
+
+Colonel Sanders that cooks Kenku 
