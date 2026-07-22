@@ -117,3 +117,5 @@ CSSG Cursed spirit support group, also the cactus and succulent plants specialis
 
 
 Colonel Sanders that cooks Kenku 
+
+Creature that deals 0 damage, but has the effects as if a ton of damage was dealt. Eg for torture purposes.
