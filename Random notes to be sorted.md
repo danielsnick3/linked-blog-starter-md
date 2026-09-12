@@ -121,3 +121,7 @@ Colonel Sanders that cooks Kenku
 Creature that deals 0 damage, but has the effects as if a ton of damage was dealt. Eg for torture purposes.
 
 Rick roll on the random encounter table
+
+Heaven rewards diligence, any effort receives reward guaranteed improvement that the players can tap into for growth.
+
+The suck off uses con for lung capacity and sleight of hand for using your tongue
