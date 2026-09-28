@@ -125,3 +125,5 @@ Rick roll on the random encounter table
 Heaven rewards diligence, any effort receives reward guaranteed improvement that the players can tap into for growth.
 
 The suck off uses con for lung capacity and sleight of hand for using your tongue
+
+Like sir Lancelot there are others including shield a lot and sword a lot
