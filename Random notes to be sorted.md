@@ -131,3 +131,5 @@ Like sir Lancelot there are others including shield a lot and sword a lot
 Add Kronk from emperors new groove and Kronko, Krenko with Kronks face poorly photoshopped on
 
 Roxanne (mtg) meteorites fall boss fight where she keeps trying to get ways to double the amount of meteors fired each round
+
+Colorist that makes things gain properties based on color E.G red makes things go faster (from warhammer 40k)
