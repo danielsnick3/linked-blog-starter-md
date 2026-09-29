@@ -129,3 +129,5 @@ The suck off uses con for lung capacity and sleight of hand for using your tongu
 Like sir Lancelot there are others including shield a lot and sword a lot
 
 Add Kronk from emperors new groove and Kronko, Krenko with Kronks face poorly photoshopped on
+
+Roxanne (mtg) meteorites fall boss fight where she keeps trying to get ways to double the amount of meteors fired each round
