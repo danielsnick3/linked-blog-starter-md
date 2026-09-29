@@ -127,3 +127,5 @@ Heaven rewards diligence, any effort receives reward guaranteed improvement that
 The suck off uses con for lung capacity and sleight of hand for using your tongue
 
 Like sir Lancelot there are others including shield a lot and sword a lot
+
+Add Kronk from emperors new groove and Kronko, Krenko with Kronks face poorly photoshopped on
